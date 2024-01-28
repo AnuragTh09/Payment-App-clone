@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+    z-index: 999;
+}
+#section-heading{
+    margin-top: 60px;
+    padding-top: 28px;
+    height: 120px;
+}
