@@ -1,0 +1,20 @@
+# Node.js dependencies
+/node_modules/
+
+# Compiled output (if any)
+/dist/
+/build/
+
+# Development server files (if any)
+/public/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Tailwind CSS build output (if applicable)
+/tailwind.config.js
